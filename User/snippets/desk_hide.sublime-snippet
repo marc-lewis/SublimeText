@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div class="desk-hide" style="display:none;font-size:0;max-height:0;height:0px;width:0px;overflow:hidden;mso-line-height-rule: exactly;-webkit-text-size-adjust:none;"><!--[if !mso]> -->$1<!-- <![endif]--></div>
+]]></content>
+	<tabTrigger>desk hide;</tabTrigger>
+</snippet>

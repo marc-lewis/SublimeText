@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span style="font-family:arial,helvetica,sans-serif;font-size: 9px; line-height: 0; vertical-align: 4px;mso-line-height-rule: exactly;">$1</span>
+]]></content>
+	<tabTrigger>super;</tabTrigger>
+</snippet>

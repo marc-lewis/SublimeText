@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a href="#" target="_blank" style="color:#000000;text-decoration:none;">$1</a>
+]]></content>
+	<tabTrigger>link;</tabTrigger>
+</snippet>

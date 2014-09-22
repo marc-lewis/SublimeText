@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<td valign="top" align="left" style="font-family:Arial,sans-serif;font-size:13px;line-height:15px;color:#000000">$1</td>
+]]></content>
+	<tabTrigger>td copy;</tabTrigger>
+</snippet>

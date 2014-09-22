@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div style="font-size:1px; line-height:$1px; height:$2px; mso-line-height-rule: exactly;-webkit-text-size-adjust:none;">&nbsp;</div>
+]]></content>
+	<tabTrigger>padding;</tabTrigger>
+</snippet>
